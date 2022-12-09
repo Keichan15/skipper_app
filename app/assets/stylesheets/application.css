@@ -14,7 +14,7 @@
  *= require_self
  */
 
-@import "skippr";
+@import "skippr.css";
 
 #container {
   height: 500px;
